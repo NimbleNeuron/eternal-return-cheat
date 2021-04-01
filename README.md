@@ -10,7 +10,7 @@
 
 ### overview
 
-- version : 0.29.0
+- version : 0.29.0a
 - [Download](../../releases) Use Extreme Injector (Auto Inject)
 
 ### keybinds
