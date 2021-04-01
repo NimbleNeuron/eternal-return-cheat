@@ -11,9 +11,13 @@
 ### overview
 
 - version : 0.29.1
+- [Download](../../releases) Use Extreme Injector (Auto Inject)
+
+### keybinds
+
 - open menu : <kbd>insert</kbd>
 - AA shortcut : <kbd>space</kbd>
-- [Download](../../releases) Use Extreme Injector
+- zoom in/out : <kbd>scrollup</kbd> <kbd>scrolldown</kbd>
 
 
 
