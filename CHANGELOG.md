@@ -8,3 +8,11 @@
 
 - Enemy Information
 - Integration of Duo, Squad mode.
+
+
+
+
+
+### 0.29.0a.5
+
+- Tickets count per patch 10 -> 50
