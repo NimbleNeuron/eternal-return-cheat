@@ -10,7 +10,7 @@ I'm sure that this bypassed all the traps they attached, but use this with your 
 
 ### overview
 
-- version : 0.29.0a
+- version : 0.29.1
 - [Download](../../releases) Use Extreme Injector (Auto Inject)
 
 ### keybinds
