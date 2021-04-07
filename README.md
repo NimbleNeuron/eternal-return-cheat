@@ -3,10 +3,11 @@
 ### credit
 
 - [Lucius Graziano](https://github.com/LuciusGraziano)
+- [Discord](https://discord.gg/Hfy398hXJf)
 
 
 
-I'm sure that this bypassed all the traps they attached, but use this with your own risk. On the record, they didn't ban anyone since February. 
+I'm sure that this bypassed all the traps they attached, but use this with your own risk. On the record, they didn't ban anyone since February. If you have any question or report bug, leave it on issue tab. This cheat provide 50 games per each minor update. 
 
 ### overview
 
