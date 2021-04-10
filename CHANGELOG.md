@@ -22,3 +22,10 @@
 ### 0.29.1
 
 - ticket authentication applied.
+
+
+
+### 0.29.1.2
+
+- Misc, Activator settings are saved at config.ini
+- Other components will be applied too after refactoring.
