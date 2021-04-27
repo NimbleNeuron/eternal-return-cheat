@@ -11,8 +11,9 @@ I'm sure that this bypassed all the traps they attached, but use this with your 
 
 ### overview
 
-- version : 0.30.0
-- [Download](../../releases) Use Extreme Injector (Auto Inject)
+- version : 0.30.1
+- Use Extreme Injector (Auto Inject)
+- Download : Find out the link in Discord server
 
 ### keybinds
 
